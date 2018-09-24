@@ -1,0 +1,8 @@
+{
+  "name": "wool-server/program",
+  "entry": "src/index.ts",
+  "dependencies": {
+    "wool/errors": "0.0.0 <= v < 1.0.0",
+    "wool-server/router": "0.0.0 <= v < 1.0.0"
+  }
+}

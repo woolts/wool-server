@@ -1,0 +1,5 @@
+{
+  "name": "wool-server/router",
+  "entry": "src/router.ts",
+  "dependencies": {}
+}

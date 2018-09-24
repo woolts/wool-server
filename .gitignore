@@ -1,0 +1,9 @@
+# Generated files
+wool-stuff
+tsconfig.json
+
+# Editors
+.vscode
+
+# System
+.DS_Store

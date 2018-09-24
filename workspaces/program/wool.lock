@@ -1,0 +1,8 @@
+{
+  "wool/errors": {
+    "version": "0.0.0"
+  },
+  "wool-server/router": {
+    "version": "0.0.0"
+  }
+}
